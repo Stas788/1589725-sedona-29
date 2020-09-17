@@ -1,7 +1,7 @@
 ﻿# Личный проект «Седона»
 
 * Студент: [Станислав  Березин](https://up.htmlacademy.ru/htmlcss/29/user/1589725).
-* Наставник: [Артемий Бойко](https://up.htmlacademy.ru/htmlcss/29/user/607755).
+* Наставник: [Артемий Бойков](https://up.htmlacademy.ru/htmlcss/29/user/607755).
 
 ---
 
