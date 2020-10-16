@@ -13,6 +13,8 @@
     --basic-extra-light: #f8f5f2;
     --basic-white: #ffffff;
     --basic-brown: #766357;
+    --basic-extra-brown: #666666;
+    --basic-grey: #F2F2F2;
     --special: #663d15;  
   }
   
@@ -195,4 +197,41 @@
   .footer-copyright .button:focus {
     color: var(--basic-black);
     background-color: var(--basic-white);
+  }
+
+
+  /*hotels*/
+  .catalog-item {
+    font-size: 21px;
+    line-height: 26px;
+    font-weight: 700;
+  }
+  .catalog-item-kind {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .button-detail {
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 700;
+    color: var(--basic-white);
+    background-color: var(--basic-extra-blue);
+
+  }
+  .catalog-item-price {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .button-reserve {
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 700;
+    color: var(--basic-white);
+    background-color: var(--basic-brown);
+  }
+  .catalog-item-rating {
+    font-size: 14px;
+    line-height: 21px;
+    color: var(--basic-extra-brown);
+    background-color: var(--basic-grey);
   }
