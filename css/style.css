@@ -216,6 +216,7 @@
     font-weight: 700;
     color: var(--basic-white);
     background-color: var(--basic-extra-blue);
+    text-transform: uppercase;
 
   }
   .catalog-item-price {
@@ -228,6 +229,7 @@
     font-weight: 700;
     color: var(--basic-white);
     background-color: var(--basic-brown);
+    text-transform: uppercase;
   }
   .catalog-item-rating {
     font-size: 14px;
